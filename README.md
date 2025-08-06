@@ -6,6 +6,11 @@ This CSS snippet disables the sticky behavior from elements using the `.uk-stick
 
 Include `style.css` in your HTML file or enqueue it via WordPress/your preferred method to override UIkit's default sticky behavior.
 
+👨‍💻 Author
+*Naimur Rahman Nahid*  
+[wordpressnaimur.com](https://wordpressnaimur.com)
+
+
 ## CSS Code
 
 ```css
@@ -24,3 +29,6 @@ Include `style.css` in your HTML file or enqueue it via WordPress/your preferred
     width: auto !important;
     transition: none !important;
 }
+
+
+---
